@@ -29,18 +29,18 @@ A program, to provide charitable and educational assistance to high school and c
 
 ## Use Cases
 - user management
-- requestor create research request
-- requestor funds reseach request
-- student accpets research
+- requestor creates research request
+- requestor funds research request
+- student accepts research
 - student receive partial payment
 - student provides deliverables
-- student receive full paymnet
+- student receive full payment
 
 ## Project Plan
 
 ### Phase 1 - MVP
 
-- user management: sign up (screen), log in (passwordless), log off
+- user management: sign up (screen), login (passwordless), log off
 - Landing page (screen)
 - Create research request (screen)
 - Search/Filter research requests (screen)
@@ -52,7 +52,7 @@ A program, to provide charitable and educational assistance to high school and c
 
 ### Phase 2
 
-- google maps address autocomplete
+- Google Maps address autocomplete
 - better search capabilities
 - fund research projects
 - school autocomplete
