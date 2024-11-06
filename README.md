@@ -1,6 +1,10 @@
 # student-research-projects
 A program, to provide charitable and educational assistance to high school and college students for academic research projects, of from Make Sure It Happens Inc, a Maryland non-profit and 501(c)(3) EIN 85-3536160 | www.msih.org | ithappens@msih.org | 717-674-4674
 
+Use github [*Issues*](../../issues)  to track project and operational: Bugs, Features, and Tasks
+
+Use github [*Discussions*](../../discussions/categories/general) to discuss project and operational tops: Design, Marketing, Strategy, and Technology
+
 # Purpose
 - A React platform connecting student researchers with community-driven research projects 
 - Users suggest research projects
